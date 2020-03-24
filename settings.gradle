@@ -1,0 +1,2 @@
+rootProject.name='mastering-firebase-1'
+include ':app'
